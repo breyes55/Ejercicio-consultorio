@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|c:\\users\\braya\\desktop\\actividad ix\\consultoriorad\\vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E087EC2-FD26-4DE7-AF6D-87907FBC72B5}|..\\CapaNegocios\\CapaNegocios.csproj|c:\\users\\braya\\desktop\\actividad ix\\capanegocios\\ncitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\vmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\vmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|c:\\users\\braya\\desktop\\actividad ix\\consultoriorad\\vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ncitas.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaNegocios\\Ncitas.cs",
+              "RelativeDocumentMoniker": "..\\CapaNegocios\\Ncitas.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaNegocios\\Ncitas.cs",
+              "RelativeToolTip": "..\\CapaNegocios\\Ncitas.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:28:07.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VPacientes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs",
+              "RelativeDocumentMoniker": "VPacientes.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VPacientes.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:26:08.718Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VMedicos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMedicos.cs",
+              "RelativeDocumentMoniker": "VMedicos.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMedicos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VMedicos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:25:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "VMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T07:25:40.978Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "c5927ad2-124b-4d18-a075-80dbe08a2847",
+        "Display": 1,
+        "X": -255,
+        "Y": 233,
+        "Width": 1316,
+        "Height": 771,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs",
+              "RelativeDocumentMoniker": "VCitas.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VCitas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:53:53.078Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

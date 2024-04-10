@@ -1,0 +1,15 @@
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaNegocios.dll.config
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaNegocios.dll
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaNegocios.pdb
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaDatos.dll
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\EntityFramework.dll
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaDatos.pdb
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\CapaDatos.dll.config
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\EntityFramework.xml
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\obj\Debug\CapaNegocios.csproj.AssemblyReference.cache
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\obj\Debug\CapaNegocios.csproj.CoreCompileInputs.cache
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\obj\Debug\CapaNego.1D246B3C.Up2Date
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\obj\Debug\CapaNegocios.dll
+C:\Users\Braya\Desktop\Actividad IX\CapaNegocios\obj\Debug\CapaNegocios.pdb
