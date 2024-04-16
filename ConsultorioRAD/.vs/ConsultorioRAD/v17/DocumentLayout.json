@@ -3,23 +3,43 @@
   "WorkspaceRootPath": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|c:\\users\\braya\\desktop\\actividad ix\\consultoriorad\\vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7E087EC2-FD26-4DE7-AF6D-87907FBC72B5}|..\\CapaNegocios\\CapaNegocios.csproj|c:\\users\\braya\\desktop\\actividad ix\\capanegocios\\ncitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\vmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\vmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|c:\\users\\braya\\desktop\\actividad ix\\consultoriorad\\vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\basedatos\\consultoriocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|c:\\users\\braya\\desktop\\actividad ix\\consultoriorad\\vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED1CBE-3F9A-463B-BC1F-1A07AFDA89D8}|CapaPresentacion.csproj|solutionrelative:vpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\dpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\basedatos\\modelos\\mcitas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\basedatos\\modelos\\mmedicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\basedatos\\modelos\\mpacientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\core\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EF03503-E900-4544-B498-B537D579F64E}|..\\CapaDatos\\CapaDatos.csproj|c:\\users\\braya\\desktop\\actividad ix\\capadatos\\core\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,48 +54,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Ncitas.cs",
-              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaNegocios\\Ncitas.cs",
-              "RelativeDocumentMoniker": "..\\CapaNegocios\\Ncitas.cs",
-              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaNegocios\\Ncitas.cs",
-              "RelativeToolTip": "..\\CapaNegocios\\Ncitas.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA1wCUAAAAOAAAA",
+              "Title": "VCitas.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs",
+              "RelativeDocumentMoniker": "VCitas.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs",
+              "RelativeToolTip": "VCitas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T07:28:07.457Z"
+              "WhenOpened": "2024-04-14T20:11:25.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VPacientes.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs",
-              "RelativeDocumentMoniker": "VPacientes.cs",
-              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VPacientes.cs [Dise\u00F1o]",
+              "Title": "VCitas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs",
+              "RelativeDocumentMoniker": "VCitas.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VCitas.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T07:26:08.718Z",
+              "WhenOpened": "2024-04-14T20:04:27.123Z",
               "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "VMedicos.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMedicos.cs",
-              "RelativeDocumentMoniker": "VMedicos.cs",
-              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMedicos.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VMedicos.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T07:25:42.978Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "VMenuPrincipal.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMenuPrincipal.cs",
-              "RelativeDocumentMoniker": "VMenuPrincipal.cs",
-              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VMenuPrincipal.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VMenuPrincipal.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T07:25:40.978Z"
             }
           ]
         }
@@ -85,12 +84,94 @@
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "FloatingWindowState": {
-        "Id": "c5927ad2-124b-4d18-a075-80dbe08a2847",
+        "Id": "15a4227b-4a9b-4aed-b310-01e747b4d452",
         "Display": 1,
-        "X": -255,
-        "Y": 233,
-        "Width": 1316,
-        "Height": 771,
+        "X": 189,
+        "Y": 49,
+        "Width": 1013,
+        "Height": 587,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsultorioContext.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\ConsultorioContext.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\BaseDatos\\ConsultorioContext.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\ConsultorioContext.cs",
+              "RelativeToolTip": "..\\CapaDatos\\BaseDatos\\ConsultorioContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:44:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\IRepository.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Core\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:44:35.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Core\\Repository.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\Repository.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Core\\Repository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:46:38.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Core\\IUnitOfWork.cs",
+              "ViewState": "AQIAAAIAAACwMDMzMzMLwBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:50:47.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\Core\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\Core\\UnitOfWork.cs",
+              "RelativeToolTip": "..\\CapaDatos\\Core\\UnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T16:52:14.219Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "631feaad-24d3-4081-aa8f-300ea3eb5b4d",
+        "Display": 1,
+        "X": 120,
+        "Y": 151,
+        "Width": 1088,
+        "Height": 587,
         "WindowState": 2
       },
       "DocumentGroups": [
@@ -101,14 +182,107 @@
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "VCitas.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs",
-              "RelativeDocumentMoniker": "VCitas.cs",
-              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VCitas.cs [Dise\u00F1o]",
-              "RelativeToolTip": "VCitas.cs [Dise\u00F1o]",
+              "Title": "DPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\DPacientes.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\DPacientes.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\DPacientes.cs",
+              "RelativeToolTip": "..\\CapaDatos\\DPacientes.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAMwDQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-10T05:53:53.078Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-04-14T17:25:33.288Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "6d2728da-24bf-4d0e-a0d1-d332877e80ea",
+        "Display": 1,
+        "X": 145,
+        "Y": 196,
+        "Width": 1013,
+        "Height": 587,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MPacientes.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\BaseDatos\\Modelos\\MPacientes.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MPacientes.cs",
+              "RelativeToolTip": "..\\CapaDatos\\BaseDatos\\Modelos\\MPacientes.cs",
+              "ViewState": "AQIAAAMAAACAMDMzMzMLwBQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:03:07.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MMedicos.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MMedicos.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\BaseDatos\\Modelos\\MMedicos.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MMedicos.cs",
+              "RelativeToolTip": "..\\CapaDatos\\BaseDatos\\Modelos\\MMedicos.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAmwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:13:25.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MCitas.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MCitas.cs",
+              "RelativeDocumentMoniker": "..\\CapaDatos\\BaseDatos\\Modelos\\MCitas.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\CapaDatos\\BaseDatos\\Modelos\\MCitas.cs",
+              "RelativeToolTip": "..\\CapaDatos\\BaseDatos\\Modelos\\MCitas.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T17:18:57.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "da875125-d4d5-4214-a8fb-27871890a20e",
+        "Display": 1,
+        "X": 151,
+        "Y": 53,
+        "Width": 1088,
+        "Height": 587,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VPacientes.cs",
+              "DocumentMoniker": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs",
+              "RelativeDocumentMoniker": "VPacientes.cs",
+              "ToolTip": "C:\\Users\\Braya\\Desktop\\Actividad IX\\ConsultorioRAD\\VPacientes.cs",
+              "RelativeToolTip": "VPacientes.cs",
+              "ViewState": "AQIAAGgAAAAAZmZmZmYowHwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-14T19:10:12.112Z",
+              "EditorCaption": ""
             }
           ]
         }
